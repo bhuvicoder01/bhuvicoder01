@@ -5,9 +5,9 @@ Hi, I'm **Bhuvnesh Pal**, a **Full-Stack Developer** passionate about building s
 
 - 📍 Based in **Gwalior City, India**  
 - ⚡ Fun fact: I'm an overthinker, which makes me a great tester and debugger!  
-
----
 </div>
+---
+
 ## 🛠️ My Tech Stack
 - **Languages**: Java, JavaScript, Python  
 - **Frameworks/Libraries**: React  
