@@ -1,3 +1,4 @@
+<div align='center'>
 # 👋 Welcome to My GitHub Profile!
 
 Hi, I'm **Bhuvnesh Pal**, a **Full-Stack Developer** passionate about building scalable and efficient web apps with user-friendly ecosystems. I love exploring new technologies, contributing to open-source projects, and solving real-world problems through code.
@@ -6,7 +7,7 @@ Hi, I'm **Bhuvnesh Pal**, a **Full-Stack Developer** passionate about building s
 - ⚡ Fun fact: I'm an overthinker, which makes me a great tester and debugger!  
 
 ---
-
+</div>
 ## 🛠️ My Tech Stack
 - **Languages**: Java, JavaScript, Python  
 - **Frameworks/Libraries**: React  
