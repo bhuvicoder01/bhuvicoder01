@@ -1,5 +1,5 @@
 <div align='center'>
-# 👋 Welcome to My GitHub Profile!
+ <div classname='font-bold'>👋 Welcome to My GitHub Profile!</div>
 
 Hi, I'm **Bhuvnesh Pal**, a **Full-Stack Developer** passionate about building scalable and efficient web apps with user-friendly ecosystems.
 I love exploring new technologies, contributing to open-source projects, and solving real-world problems through code.
