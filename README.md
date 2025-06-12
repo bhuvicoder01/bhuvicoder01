@@ -57,7 +57,7 @@ Explore more of my work in my [repositories](https://github.com/bhuvicoder01?tab
 I’d love to hear from you about projects, collaborations, or anything tech-related! Here’s how you can reach me:  
 
 - 🌐 [Portfolio](https://bhuvneshpal.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/bhuvneshpal)  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/bhuvicoder01/))  
 - 🐦 [X](https://x.com/bhuvneshpal)  
 - 📧 [Email](mailto:bhuvneshpal@example.com)  
 - 📝 [Blog](https://bhuvneshpal.blog)  
