@@ -44,10 +44,8 @@ Explore more of my work in my [repositories](https://github.com/bhuvicoder01?tab
 ---
 
 ## 📝 My Developer Journey  
-- **2018**: Started coding with Python, built my first project: a simple calculator.  
-- **2019**: Learned JavaScript and React, built a personal portfolio website.  
-- **2020**: Contributed to open-source projects during Hacktoberfest.  
-- **2021**: Landed my first job as a Junior Developer at XYZ Company, worked on building internal tools.  
+- **2022**: Started coding with Python, built my first project: a simple calculator.  
+- **2023**: Continued to my coding journey with Java to ace data structures and algorithm.
 - **2022**: Transitioned to Full-Stack Developer, focused on building scalable web apps.  
 - **2023**: Currently working on enhancing the Smart Farming Dashboard and exploring machine learning.  
 
