@@ -1,68 +1,90 @@
-<div align='center'>
- <div classname='font-bold'>👋 Welcome to My GitHub Profile!</div>
+<div align="center">
 
-Hi, I'm **Bhuvnesh Pal**, a **Full-Stack Developer** passionate about building scalable and efficient web apps with user-friendly ecosystems.
-I love exploring new technologies, contributing to open-source projects, and solving real-world problems through code.
+  👋 **Welcome to My GitHub Profile!**
 
- 📍 Based in **Gwalior City, India**  
- ⚡ Fun fact: I'm an overthinker, which makes me a great tester and debugger!  
+Hi, I'm **Bhuvnesh Pal**, a **Software Engineer** and **Full-Stack Developer** with Global Rank 82 in TCS CodeVita Season 12, focused on building scalable, cloud-integrated web applications.  
+Based in **Gwalior, India**, with a strong foundation in data structures, algorithms, and system design, and hands-on experience through internships and high-impact projects.  
+
 </div>
 
+---
 
-## 🛠️ My Tech Stack
-- **Languages**: Java, JavaScript, Python  
-- **Frameworks/Libraries**: React  
-- **Tools/Platforms**: Git, AWS  
-- **Databases**: MongoDB, MySQL  
-- **Other**: CI/CD, API Design  
+## 🛠️ Tech Stack
+
+- **Languages**: C, Java, Python, JavaScript, MySQL, MongoDB, PHP  
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, Spring Boot, JavaFX, Bootstrap, Tailwind CSS  
+- **Cloud & DevOps**: AWS S3, Vercel, Render, Git, GitHub, CI/CD pipelines  
+- **Core Skills**: Full-Stack Development, RESTful APIs, OOP, System Design, API Integration, Database Design, Data Structures & Algorithms  
 
 ---
 
 ## 🌟 Featured Projects
 
-### Smart Farming Dashboard  
-A web app that recommends crops and predicts yield using SVM or AutoML, with a React frontend and Flask backend.  
-- **Tech Stack**: React, Flask, Python (SVM/AutoML, Scikit-learn), MongoDB/MySQL, AWS  
-- **Key Features**: Crop recommendations, yield prediction, user-friendly dashboard  
-- **Live Demo**: [smart-farming-dashboard-eight.vercel.app](https://smart-farming-dashboard-eight.vercel.app/)  
-- **Repo**: [github.com/bhuvicoder01/smart-farming](https://github.com/bhuvicoder01/smart-farming)  
+### 🎬 HellWatch – Cloud Streaming Prototype  
+A full-stack streaming platform using AWS S3 for scalable media storage and delivery with a modern, responsive UI.  
 
-### Secure Steganography Tool  
-A Python-based tool for hiding sensitive data in images using LSB steganography and AES-256 encryption, featuring a Tkinter GUI.  
-- **Tech Stack**: Python, Pillow, Cryptography, Tkinter, Pyperclip, LSB Steganography  
-- **Key Features**: Hide/extract messages, AES-256 encryption, Tkinter GUI with key management  
-- **Repo**: [github.com/bhuvicoder01/steganographing_image](https://github.com/bhuvicoder01/steganographing_image)  
-
-### Attendance Management System  
-A Python-based system using OpenCV for face recognition and Tkinter for a GUI, with a self-training model for attendance tracking.  
-- **Tech Stack**: Python, OpenCV, Tkinter, NumPy  
-- **Key Features**: Face recognition, self-training model, Tkinter GUI  
-- **Repo**: [github.com/bhuvicoder01/attend_mng_face_recognition](https://github.com/bhuvicoder01/attend_mng_face_recognition)  
-
-Explore more of my work in my [repositories](https://github.com/bhuvicoder01?tab=repositories)!  
+- **Tech Stack**: Next.js, Node.js, Express.js, AWS S3, MongoDB  
+- **Highlights**: Scalable media storage, optimized UX, CI/CD deployment, well-designed MongoDB schema.  
 
 ---
 
-## 📝 My Developer Journey  
-- **2022**: Started coding with Python, built my first project: a simple calculator.  
-- **2023**: Continued to my coding journey with Java to ace data structures and algorithm.
-- **2024**: Transitioned to Full-Stack Developer, focused on building scalable web apps.  
-- **2025**: Currently working on enhancing the Smart Farming Dashboard and exploring machine learning.  
+### 🏡 Wandora – Airbnb-Style Web App  
+A production-ready Airbnb-like web application with full CRUD for listings, bookings, and secure authentication.  
+
+- **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT Authentication  
+- **Highlights**: Real-time booking flow, responsive UI, JWT-based auth, deployed on Vercel.  
 
 ---
 
-## 📫 Get in Touch  
-I’d love to hear from you about projects, collaborations, or anything tech-related! Here’s how you can reach me:  
+### 🌾 Crop Prediction / Smart Farming  
+Machine learning–driven systems for crop prediction and agricultural insights.  
 
-- 🌐 [Portfolio](https://bhuvneshpal.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhuvicoder01/)
-- 🐦 [X](https://x.com/bhuvneshpal)  
-- 📧 [Email](mailto:bhuvneshpal@example.com)  
-- 📝 [Blog](https://bhuvneshpal.blog)  
-
-Don’t hesitate to connect—I’m always up for a good conversation!  
+- **Tech Stack**: Python, TensorFlow, Pandas, NumPy  
+- **Highlights**: Data preprocessing, feature engineering, yield optimization and crop selection insights.  
 
 ---
 
-⭐️ If you find my work interesting, consider starring my repos or following my journey!  
-*Last updated: June 2025*
+## 🚀 Experience & Achievements
+
+### 💼 Web App Developer Intern – TECHORI (Rishishwar Industry Pvt. Ltd.)  
+Worked on the RIMedicare platform to build and optimize production-ready web features.  
+
+- Built custom back-end services using Node.js and MongoDB.  
+- Integrated third-party APIs and implemented secure authentication and dynamic data updates.  
+- Collaborated with cross-functional teams to deliver solutions on time.  
+
+### 🤝 Student Volunteer – CodeCraft Society, ITM University  
+Contributed to community and tech-focused activities in a collaborative environment.  
+
+---
+
+### 🏅 Achievements
+
+- 🌍 **Global Rank 82 – TCS CodeVita Season 12 (2024)**  
+- 🧠 **Finalist – FedEx Smart Hackathon (2024)**  
+
+---
+
+## 🎓 Education & Learning Journey
+
+- 🎓 **B.Tech in Computer Science Engineering**, ITM University, Gwalior (2022–2026), senior year with focus on software development, DSA, and cloud computing.  
+- 📜 **Certifications**:  
+  - Amazon Junior Software Developer Certificate (Coursera)  
+  - Google Machine Learning and AI Badge  
+
+- 💻 Active in competitive programming, system design discussions, and collaborative Git/GitHub workflows.  
+
+---
+
+## 📫 Get in Touch
+
+I’m always open to discussing projects, internships, and software engineering opportunities.  
+
+- 🌐 **Portfolio**: https://bhuvneshpal.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/bhuvicoder01/  
+- 🐙 **GitHub**: https://github.com/bhuvicoder01  
+- 📧 **Email**: cebhuvneshsingh@gmail.com  
+
+---
+
+⭐️ If any of these projects interest you, consider ⭐ starring the repos and following the journey!  
