@@ -20,7 +20,7 @@ Based in **Gwalior, India**, with a strong foundation in data structures, algori
 
 ## 🌟 Featured Projects
 
-### 🎬 HellWatch – Cloud Streaming Prototype  
+### 🎬 HellWatch – Cloud Streaming Prototype  ( https://hell-watch.vercel.app/ )
 A full-stack streaming platform using AWS S3 for scalable media storage and delivery with a modern, responsive UI.  
 
 - **Tech Stack**: Next.js, Node.js, Express.js, AWS S3, MongoDB  
@@ -28,7 +28,7 @@ A full-stack streaming platform using AWS S3 for scalable media storage and deli
 
 ---
 
-### 🏡 Wandora – Airbnb-Style Web App  
+### 🏡 Wandora – Airbnb-Style Web App ( https://airbnb-clone-phi-jade.vercel.app/ )
 A production-ready Airbnb-like web application with full CRUD for listings, bookings, and secure authentication.  
 
 - **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT Authentication  
@@ -69,7 +69,7 @@ Contributed to community and tech-focused activities in a collaborative environm
 
 - 🎓 **B.Tech in Computer Science Engineering**, ITM University, Gwalior (2022–2026), senior year with focus on software development, DSA, and cloud computing.  
 - 📜 **Certifications**:  
-  - Amazon Junior Software Developer Certificate (Coursera)  
+  - Amazon Junior Software Developer Certificate (Coursera) ( https://coursera.org/share/8223d243cf41021829bc96b58dfdf10d )
   - Google Machine Learning and AI Badge  
 
 - 💻 Active in competitive programming, system design discussions, and collaborative Git/GitHub workflows.  
@@ -80,7 +80,7 @@ Contributed to community and tech-focused activities in a collaborative environm
 
 I’m always open to discussing projects, internships, and software engineering opportunities.  
 
-- 🌐 **Portfolio**: https://bhuvneshpal.com  
+- 🌐 **Portfolio**: https://bhuvis-porto-folio.vercel.app/
 - 💼 **LinkedIn**: https://www.linkedin.com/in/bhuvicoder01/  
 - 🐙 **GitHub**: https://github.com/bhuvicoder01  
 - 📧 **Email**: cebhuvneshsingh@gmail.com  
